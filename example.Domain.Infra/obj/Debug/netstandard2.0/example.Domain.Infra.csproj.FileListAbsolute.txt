@@ -1,9 +1,0 @@
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\bin\Debug\netstandard2.0\example.Domain.Infra.deps.json
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\bin\Debug\netstandard2.0\example.Domain.Infra.dll
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\bin\Debug\netstandard2.0\example.Domain.Infra.pdb
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\obj\Debug\netstandard2.0\example.Domain.Infra.csprojAssemblyReference.cache
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\obj\Debug\netstandard2.0\example.Domain.Infra.csproj.CoreCompileInputs.cache
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\obj\Debug\netstandard2.0\example.Domain.Infra.AssemblyInfoInputs.cache
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\obj\Debug\netstandard2.0\example.Domain.Infra.AssemblyInfo.cs
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\obj\Debug\netstandard2.0\example.Domain.Infra.dll
-C:\Projeto\template-backend-aspnet-ddd\example.Domain.Infra\obj\Debug\netstandard2.0\example.Domain.Infra.pdb
