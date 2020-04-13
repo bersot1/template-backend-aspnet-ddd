@@ -1,0 +1,9 @@
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\bin\Debug\netstandard2.0\example.Domain.deps.json
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\bin\Debug\netstandard2.0\example.Domain.dll
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\bin\Debug\netstandard2.0\example.Domain.pdb
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\obj\Debug\netstandard2.0\example.Domain.csprojAssemblyReference.cache
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\obj\Debug\netstandard2.0\example.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\obj\Debug\netstandard2.0\example.Domain.AssemblyInfoInputs.cache
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\obj\Debug\netstandard2.0\example.Domain.AssemblyInfo.cs
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\obj\Debug\netstandard2.0\example.Domain.dll
+C:\Projeto\template-backend-aspnet-ddd\example.Domain\obj\Debug\netstandard2.0\example.Domain.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsDcnAE0n1Da9aQuQ8IlIQtY2YW5TYmruEXqTCevhMcsUtJNrpyCD4azsQd5sA69142pgrizJz4apYXeiBav4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto\\template-backend-aspnet-ddd\\example.Domain\\example.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bersot\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bersot\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

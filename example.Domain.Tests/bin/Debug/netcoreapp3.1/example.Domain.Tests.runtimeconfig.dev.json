@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bersot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bersot\\.nuget\\packages"
+    ]
+  }
+}
