@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yR7HNKYImHm/DizKxSkPrZB8jUqAqsohvr7E3vd2VzSk92Hib4Xcho2eEYsZLpsX0IiWxo0G6GikIiQlYcBs1w==",
+  "dgSpecHash": "qRHa+6jJ3LIIo+7CxTPaudIX27wWDSoyVNxhWA1vyvkeq/QCp7kpTEV60IMyJGdOfXMfOtnyDQjeyN+rXwzFag==",
   "success": true,
   "projectFilePath": "C:\\Projeto\\template-backend-aspnet-ddd\\example.Domain.Tests\\example.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bersot\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\bersot\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
     "C:\\Users\\bersot\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\bersot\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\bersot\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
